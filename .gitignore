@@ -1,0 +1,46 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment folders
+venv/
+.venv/
+ENV/
+env/
+
+# Environment variables and API keys
+.env
+*.env
+
+# Streamlit config
+.streamlit/
+
+# VSCode settings
+.vscode/
+
+# Pytest and test cache
+.pytest_cache/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Logs and local data
+*.log
+*.sqlite3
+*.db
+
+# LangChain or transformer cache (optional)
+.cache/
+
+# Output or build folders (optional)
+output/
+
+# Node modules (if applicable in future)
+node_modules/
+
+# Ignore PDFs (optional — if you upload test PDFs locally)
+*.pdf
