@@ -7,11 +7,15 @@ Transform your PDFs into interactive chat experiences with instant, accurate ans
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)](https://langchain.com)
-[![License](https://img.shields.io/github/license/Harine77/DocuChat-AI?style=flat-square)](LICENSE)
 
 ## Overview
 
 DocuChat AI is a Retrieval-Augmented Generation (RAG) application that enables natural language conversations with multiple PDF documents. Built with modern AI technologies, it provides fast, contextual responses by combining semantic search with large language models.
+
+## Demo
+
+https://github.com/user-attachments/assets/e2eff810-d31a-4616-9476-4064a2cd4cc1
+
 
 ## Key Features
 
@@ -96,18 +100,15 @@ DocuChat-AI/
 │   └── chat_engine.py    # LLM integration
 └── README.md             # Documentation
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/enhancement`)
-3. Commit changes (`git commit -m 'Add enhancement'`)
-4. Push to branch (`git push origin feature/enhancement`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<div align="center">
+  
+📊 Project Stats
+</div>
+<div align="center">
+<img src="https://img.shields.io/github/stars/Harine77/DocuChat-AI?style=social" alt="Stars">
+<img src="https://img.shields.io/github/forks/Harine77/DocuChat-AI?style=social" alt="Forks">
+<img src="https://img.shields.io/github/issues/Harine77/DocuChat-AI" alt="Issues">
+</div>
 
 ## Contact
 
@@ -115,4 +116,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built with modern AI technologies for intelligent document interaction*
