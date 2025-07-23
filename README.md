@@ -87,19 +87,6 @@ streamlit run app.py
 | Memory Usage | 1.7GB | API-based |
 | Scalability | Limited | High |
 
-## Project Structure
-
-```
-DocuChat-AI/
-├── app.py                 # Main Streamlit application
-├── requirements.txt       # Dependencies
-├── .env.example          # Environment template
-├── utils/
-│   ├── pdf_processor.py  # PDF handling
-│   ├── embeddings.py     # Vector operations
-│   └── chat_engine.py    # LLM integration
-└── README.md             # Documentation
-```
 <div align="center">
   
 📊 Project Stats
